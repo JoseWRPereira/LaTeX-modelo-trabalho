@@ -1,4 +1,8 @@
-![alt tag](https://raw.githubusercontent.com/thiagodnf/uecetex2/master/figuras/uecetex2-logo.png)
+Adaptação do projeto **ueceTeX2** para uso acadêmico no IFSP - Salto.
+
+# ![alt tag](https://raw.githubusercontent.com/thiagodnf/uecetex2/master/figuras/uecetex2-logo.png)
+
+
 
 # O que é?
 
